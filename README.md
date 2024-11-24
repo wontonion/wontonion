@@ -13,7 +13,7 @@ I am a software engineer with 4 years of experience in Java💻. Different from 
 
 ## Life Scramble 🎲
 - 🔭 I’m currently working on Master in Computer Science at Johns Hopkins University in Baltimore, MD
-- 🌱 I’m currently learning TypeScript Full Stack Development and Web3 Development. 
-- 🌎 Still be curious about the world. Also I am learning Japanese 🇯🇵. いろいろなことを学びたいです。
+- 🌱 I’m currently learning TypeScript Full Stack Development and Web3 Development
+- 🌎 Still be curious about the world. Also I am learning Japanese 🇯🇵. いろいろなことを学びたいです
 - 😅 Tried switch to Dvorak layout but failed
 - 📩 Reach me on [LinkedIn](https://www.linkedin.com/in/wontonion/) 💬 Or ask me about anything [here](https://github.com/wontonion/wontonion/issues)
